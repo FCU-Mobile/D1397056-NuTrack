@@ -1,6 +1,6 @@
 # NuTrack - 營養追蹤 iOS App
 [https://gamma.app/docs/Untitled-m32hjlds1gvzsw8
-](url)
+](https://gamma.app/docs/Untitled-m32hjlds1gvzsw8)
 
 這是一款使用 SwiftUI 和 SwiftData 技術打造的 iOS 營養追蹤應用程式。使用者可以透過它輕鬆記錄每日的飲食，並追蹤三大營養素（碳水化合物、蛋白質、脂肪）的攝取量，以達成個人的健康目標。
 
